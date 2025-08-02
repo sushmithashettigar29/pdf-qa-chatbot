@@ -41,5 +41,3 @@ Created with ❤️ by Sushmitha Shettigar
 Reach out via [LinkedIn](https://www.linkedin.com/in/sushmithashettigar/) or [GitHub](https://github.com/sushmithashettigar29)
 
 ```
-
-```
