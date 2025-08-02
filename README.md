@@ -39,5 +39,3 @@ Feel free to fork this repo and submit a pull request.
 
 Created with ❤️ by Sushmitha Shettigar
 Reach out via [LinkedIn](https://www.linkedin.com/in/sushmithashettigar/) or [GitHub](https://github.com/sushmithashettigar29)
-
-```
